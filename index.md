@@ -12,11 +12,11 @@ Según escribía me iba dando cuenta de que era necesario algo más sólido, y q
 
 ## GitHub
 
-He elegido éste formato porque permite fácilmente la lectura, edición, colaboración, corrección de errores, actualización de datos, etc... Como es un herramienta especialmente diseñada para programadores, informáticos y otros *geeks*, muchos lectores se sentirán un poco desorientados. Tranquilos, no es necesario entender nada de la plataforma, simplemente se pueden leer los artículos y si te gustan compartirlos. [En cualquier caso incluyo en la barra lateral algún enlace informativo para aprender lo básico]
+He elegido éste formato porque facilita, la lectura, edición, colaboración, corrección de errores, actualización de datos, cambio de formatos, publicación, etc... Como es un herramienta especialmente diseñada para programadores, informáticos y otros *geeks*, muchos lectores se sentirán un poco desorientados. Tranquilos, no es necesario entender nada de la plataforma, simplemente se pueden leer los artículos y si te gustan compartirlos. [En cualquier caso incluyo en la barra lateral algún enlace informativo para aprender lo básico]
 
 ## Colaborar
 
-Aunque mi protocolo de trabajo es trabajar en repositorios privados y hacerlos públicos sólo cuando están suficientemente pulidos, eso no garantiza que no haya errores, confusiones, fallos gramaticales, sintácticos, conceptuales o de otra naturaleza. También puede ser que se te ocurra una idea para mejorar el proyecto, o cierto tema específico. En uno o en otro caso no queda más remedio que te hagas una [cuenta en GitHub](https://github.com/join). Entonces podrás enviar los errores o sugerencias a través del botón [New issue](https://github.com/Eclectikus/notascc/issues) que te llevará a [una página en la que podrás seleccionar](https://github.com/Eclectikus/notascc/issues/new/choose) si reportar *un error* o *una sugerencia*.
+Aunque mi protocolo va a ser en principio trabajar en repositorios privados y hacerlos públicos sólo cuando están suficientemente pulidos, eso no garantiza que no haya errores, confusiones, fallos gramaticales, sintácticos, conceptuales o de otra naturaleza. También puede ser que se te ocurra una idea para mejorar el proyecto, o cierto tema específico. En uno o en otro caso no queda más remedio que te hagas una [cuenta en GitHub](https://github.com/join). Entonces podrás enviar los errores o sugerencias a través del botón [New issue](https://github.com/Eclectikus/notascc/issues) que te llevará a [una página en la que podrás seleccionar](https://github.com/Eclectikus/notascc/issues/new/choose) si reportar *un error* o *una sugerencia*.
 
 ## Perspectivas
 
