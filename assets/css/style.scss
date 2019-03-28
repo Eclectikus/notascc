@@ -3,13 +3,13 @@
 
 @import "{{ site.theme }}";
 
-// .header {
-//     background-image: url(https://raw.githubusercontent.com/Eclectikus/notascc/master/assets/images/header-bg.jpg);
-//     background-repeat: no-repeat;
-//     background-size: 100% 100%;
-//     height: 120px;
-//     /*CHANGE TO THE HEIGHT OF YOUR BANNER*/
-// }
+header {
+    background-image: url(https://raw.githubusercontent.com/Eclectikus/notascc/master/assets/images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 160px;
+    /*CHANGE TO THE HEIGHT OF YOUR BANNER*/
+}
 
 header h1 {
     font-size: 30px;
