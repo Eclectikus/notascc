@@ -8,7 +8,7 @@ Este proyecto surgió a raíz de la redacción de un pequeño resumen sobre el `
 
 * 15M-Carta a los jóvenes contra el Cambio Climático
 
-Según escribía me iba dando cuenta de que er necesario algo más sólido, y que para hacer un análisis serio aún sin salir de la divulgación, se necesitaba mucho más contenido. Y recursos, gráficos, imágenes, cálculos... Y entonces nació [este repositorio](https://github.com/Eclectikus/notascc) del que esta página que estás leyendo es el escaparate.
+Según escribía me iba dando cuenta de que era necesario algo más sólido, y que para hacer un análisis serio aún sin salir de la divulgación, se necesitaba mucho más contenido. Y recursos, gráficos, imágenes, referencias, cálculos... Y entonces nació [este repositorio](https://github.com/Eclectikus/notascc) del que esta página que estás leyendo es el escaparate.
 
 ## GitHub
 
@@ -16,18 +16,18 @@ He elegido éste formato porque permite fácilmente la lectura, edición, colabo
 
 ## Colaborar
 
-Aunque mi protocolo de trabajo es trabajar en repositorios privados y hacerlos públicos sólo cuando están suficientemente pulidos, eso no garantiza que no haya errores, confusiones, fallos gramaticales, sintácticos, conceptuales o de otra naturaleza. También puede ser que se te ocurra una idea para mejorar el repositorio, en tal caso no queda más remedio que te hagas una [cuenta en GitHub](https://github.com/join). Entonces podrás enviar los errores o sugerencias a través del botón [New issue](https://github.com/Eclectikus/notascc/issues) que te llevará a [una página en la que podrás seleccionar](https://github.com/Eclectikus/notascc/issues/new/choose) si reportar *un error* o *una sugerencia*.
+Aunque mi protocolo de trabajo es trabajar en repositorios privados y hacerlos públicos sólo cuando están suficientemente pulidos, eso no garantiza que no haya errores, confusiones, fallos gramaticales, sintácticos, conceptuales o de otra naturaleza. También puede ser que se te ocurra una idea para mejorar el proyecto, o cierto tema específico. En uno o en otro caso no queda más remedio que te hagas una [cuenta en GitHub](https://github.com/join). Entonces podrás enviar los errores o sugerencias a través del botón [New issue](https://github.com/Eclectikus/notascc/issues) que te llevará a [una página en la que podrás seleccionar](https://github.com/Eclectikus/notascc/issues/new/choose) si reportar *un error* o *una sugerencia*.
 
 ## Perspectivas
 
 Ni idea. Esto es un proyecto paralelo y pude quedarse parado por semanas, o meses, o puede enganchar a más gente y todo sea más dinámico. O quizá llamé la atención de una petrolera y me firme un talón que me permita dedicarme en cuerpo y alma. De una u otra manera, el contenido no cambiaría, escribiré siempre lo que considero correcto, esto es innegociable.
 
-Cómo se puede leer en la [página principal del repositorio](https://github.com/Eclectikus/notascc), la tarea no es un paseo, hay muchos puntos que tocar y ese índice no pretende ser más que un recordatorio temático, no tiene porque ser reflejo del trabajo acabado, aunque seguramente se le parezca bastante.
+Cómo se puede leer en la [página principal del repositorio](https://github.com/Eclectikus/notascc), la tarea no es un paseo, hay muchos puntos que tocar y ese índice no pretende ser más que un recordatorio temático, no tiene porque ser un guión cerrado, aunque seguramente el trabajo final se le parezca bastante.
 
-En cualquier caso creo que es buena idea tener un sitio en español que explique a los ciudadanos por qué **ser escéptico del Cambio Climático es perfectamente legítimo tanto desde el punto de vista moral como desde el puramente racional**. Y en eso hemos estado siempre algunos.
+En cualquier caso creo que es buena idea tener un sitio en español, centralizado, apto para cualquier persona medianamente formada, que explique a los ciudadanos por qué **ser escéptico del Cambio Climático es perfectamente legítimo tanto desde el punto de vista moral como desde una perspectiva puramente racional**. Y en eso hemos estado siempre algunos.
 
 ---
 
 Gracias por leer.
 
-Ec.
+**Ec.**
