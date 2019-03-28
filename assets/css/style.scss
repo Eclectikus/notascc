@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+h1 {
+    font-size: 18px;
+}
+
 .footer {
     position: fixed;
     left: 0;
