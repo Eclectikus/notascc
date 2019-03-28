@@ -22,9 +22,9 @@ Aunque mi protocolo de trabajo es trabajar en repositorios privados y hacerlos p
 
 Ni idea. Esto es un proyecto paralelo y pude quedarse parado por semanas, o meses, o puede enganchar a más gente y todo sea más dinámico. O quizá llamé la atención de una petrolera y me firme un talón que me permita dedicarme en cuerpo y alma. De una u otra manera, el contenido no cambiaría, escribiré siempre lo que considero correcto, esto es innegociable.
 
-Cómo se puede leer en la [página principal del repositorio](https://github.com/Eclectikus/notascc), la tarea no es un paseo, hay muchos puntos que tocar y ese índice no pretende ser más que un recordatorio temático, no tiene porque ser un guión cerrado, aunque seguramente el trabajo final se le parezca bastante.
+Cómo se puede ver en la [página principal del repositorio](https://github.com/Eclectikus/notascc), la tarea no es un paseo, hay muchos puntos que tocar, aunque ese índice no pretende ser más que un recordatorio temático, no tiene porque ser un guión cerrado, lo más probable es que el trabajo final se le parezca bastante.
 
-En cualquier caso creo que es buena idea tener un sitio en español, centralizado, apto para cualquier persona medianamente formada, que explique a los ciudadanos por qué **ser escéptico del Cambio Climático es perfectamente legítimo tanto desde el punto de vista moral como desde una perspectiva puramente racional**. Y en eso hemos estado siempre algunos.
+En cualquier caso creo que es buena idea tener un sitio en español, centralizado, actualizable, apto para cualquier persona medianamente formada, que explique a los ciudadanos por qué **ser escéptico del Cambio Climático es perfectamente legítimo tanto desde el punto de vista moral como desde la perspectiva puramente racional**. Y en eso hemos estado siempre algunos.
 
 ---
 
