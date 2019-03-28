@@ -6,7 +6,7 @@
 
 Este proyecto surgió a raíz de la redacción de un pequeño resumen sobre el `Cambio Climático`, que pretendía poner un poco de cordura en la visión alarmista extrema que se mostró sin pudor en las manifestaciones de los *jóvenes contra el Cambio Climático*. El texto tenía forma de carta a los estudiantes y así se ha quedado a pesar de que es algo extensa para ser una carta.
 
-* 15M-Carta a los jóvenes contra el Cambio Climático
+* [15M-Carta a los jóvenes contra el Cambio Climático](https://eclectikus.github.io/cartaestudiantesccc/) - **Claves para afrontar el debate sobre el Cambio Climático de una manera racional**
 
 Según escribía me iba dando cuenta de que era necesario algo más sólido, y que para hacer un análisis serio aún sin salir de la divulgación, se necesitaba mucho más contenido. Y recursos, gráficos, imágenes, referencias, cálculos... Y entonces nació [este repositorio](https://github.com/Eclectikus/notascc) del que esta página que estás leyendo es el escaparate.
 
