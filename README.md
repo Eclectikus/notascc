@@ -7,6 +7,8 @@
 
 `La legitimidad de ser escéptico respecto al alarmismo climático.`
 
+Puedes ver la presentación del proyecto [aquí](https://eclectikus.github.io/notascc/)
+
 ## Prefacio
 
 [![Estado](https://img.shields.io/badge/-Pendiente-lightgrey.svg)](https://github.com/Eclectikus)
