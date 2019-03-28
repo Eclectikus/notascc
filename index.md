@@ -12,7 +12,7 @@ Según escribía me iba dando cuenta de que era necesario algo más sólido, y q
 
 ## GitHub
 
-He elegido éste formato porque facilita, la lectura, edición, colaboración, corrección de errores, actualización de datos, cambio de formatos, publicación, etc... Como es un herramienta especialmente diseñada para programadores, informáticos y otros *geeks*, muchos lectores se sentirán un poco desorientados. Tranquilos, no es necesario entender nada de la plataforma, simplemente se pueden leer los artículos y si te gustan compartirlos. [En cualquier caso incluyo en la barra lateral algún enlace informativo para aprender lo básico]
+He elegido éste formato porque facilita la lectura, edición, colaboración, corrección de errores, actualización de datos, cambio de formatos, publicación, etc... Como es un herramienta especialmente diseñada para programadores, informáticos y otros *geeks*, muchos lectores se sentirán un poco desorientados. Tranquilos, no es necesario entender nada de la plataforma, simplemente se pueden leer los artículos y si te gustan compartirlos. [En cualquier caso incluyo en la barra lateral algún enlace informativo para aprender lo básico]
 
 ## Colaborar
 
