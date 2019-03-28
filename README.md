@@ -1,7 +1,7 @@
 # Notas sobre el Cambio Climático
 
 [![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/notascc)
-[![Estado](https://img.shields.io/badge/-Trabajo%20en%20proceso-orange.svg)](https://github.com/Eclectikus/notascc
+[![Estado](https://img.shields.io/badge/-Trabajo%20en%20proceso-orange.svg)](https://github.com/Eclectikus/notascc)
 [![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/notascc/issues)
 [![Licencia](https://img.shields.io/badge/-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/deed.es)
 
