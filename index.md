@@ -8,7 +8,7 @@ Este proyecto surgió a raíz de la redacción de un pequeño resumen sobre el `
 
 * 15M-Carta a los jóvenes contra el Cambio Climático
 
-Según escribí me iba dando cuenta que es necesario algo más sólido, y que para hacer un análisis serio aún sin salir de la divulgación, se necesitaba mucho más contenido. Y recursos, gráficos, imágenes, cálculos...
+Según escribía me iba dando cuenta de que er necesario algo más sólido, y que para hacer un análisis serio aún sin salir de la divulgación, se necesitaba mucho más contenido. Y recursos, gráficos, imágenes, cálculos... Y entonces nació [este repositorio](https://github.com/Eclectikus/notascc) del que esta página que estás leyendo es el escaparate.
 
 ## GitHub
 
@@ -20,4 +20,4 @@ Aunque mi protocolo de trabajo es trabajar en repositorios privados y hacerlos p
 
 ## Perspectivas
 
-Ni idea. Esto es un proyecto paralelo y pude quedarse parado por semanas, o meses, o puede enganchar a más gente y todo sea más dinámico. En cualquier caso creo que es buena idea tener sitio en español que explique a los ciudadanos por qué ser escéptico del Cambio Climático es perfectamente legítimo tanto desde el punto de vista moral como desde el puramente racional. Y en eso hemos estado siempre algunos.
+Ni idea. Esto es un proyecto paralelo y pude quedarse parado por semanas, o meses, o puede enganchar a más gente y todo sea más dinámico. En cualquier caso creo que es buena idea tener un sitio en español que explique a los ciudadanos por qué *ser escéptico del Cambio Climático es perfectamente legítimo tanto desde el punto de vista moral como desde el puramente racional*. Y en eso hemos estado siempre algunos.
