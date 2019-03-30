@@ -22,6 +22,7 @@ El prefacio es mejor escribirlo cuando esté preparado todo o una buena parte de
 
 [![Estado](https://img.shields.io/badge/Progreso-Avanzado-green.svg)](https://github.com/Eclectikus)
 [![Palabras](https://img.shields.io/badge/Palabras%20aprox.-5000-blueviolet.svg)](https://github.com/Eclectikus)
+[![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
 
 1. Queridos estudiantes
 2. Una definición funcional de Ciencia
@@ -32,6 +33,12 @@ El prefacio es mejor escribirlo cuando esté preparado todo o una buena parte de
    * La climatología no es predictiva, de momento
    * El Cambio Climático es la rama política de la Ciencia del Clima
 4. Cambio Climático y sentido común
+   * ¿Por qué se ocultan los avances de los últimos 2 siglos?
+   * ¿Por qué se confunde contaminación y cambio climático?
+   * ¿Es posible que haya colectivos que ignoren la posibilidad de un cataclismo?
+   * ¿Por qué se abusa de la retórica?
+   * ¿Por que se ofuscan las (temibles) implicaciones de un mundo sin hidrocarburos?
+   * El dilema moral
 5. Reflexiones y conclusión
 
 ---
