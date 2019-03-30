@@ -21,7 +21,7 @@ El prefacio es mejor escribirlo cuando esté preparado todo o una buena parte de
 ## Carta a los jóvenes contra el Cambio Climático
 
 [![Estado](https://img.shields.io/badge/Progreso-Avanzado-green.svg)](https://github.com/Eclectikus)
-[![Palabras](https://img.shields.io/badge/Palabras%20aprox.-5000-blueviolet.svg)](https://github.com/Eclectikus)
+[![Palabras](https://img.shields.io/badge/Palabras%20aprox.-6000-blueviolet.svg)](https://github.com/Eclectikus)
 [![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
 
 1. Queridos estudiantes
